@@ -1,0 +1,126 @@
+.h1,
+.h2 {
+  font-weight: bolder;
+}
+
+header {
+  margin-top: 7em;
+}
+.barranav a,
+.section1 .h1 {
+  color: #00e6b8;
+  font-weight: bolder;
+}
+
+.barranav a:hover {
+  color: #80ffe5;
+  font-weight: bolder;
+}
+a.active {
+  color: red;
+}
+#logo {
+  color: black;
+}
+
+.section1 img {
+  width: 100%;
+}
+h2 {
+  font-weight: bolder;
+  color: #1a1919;
+}
+main {
+  text-align: center;
+}
+.section1 {
+  margin: auto;
+  width: 100%;
+  padding-top: 1%;
+}
+
+.titulos {
+  padding-top: 10%;
+}
+
+.boton {
+  background: linear-gradient(#00e6b8, rgb(11, 255, 255));
+  color: whitesmoke;
+  font-weight: bold;
+}
+.boton:hover {
+  background: linear-gradient(rgb(11, 255, 255), #00e6b8);
+  border: solid 0.1em #979696;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.section2 {
+  margin: auto;
+  justify-content: center;
+  padding-top: 10%;
+}
+.divimagen2 img {
+  width: 100%;
+  border-radius: 15%;
+}
+.divimagen2 {
+}
+
+span {
+  color: #00e6b8;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.coloricon {
+  fill: #00e6b8;
+  width: 15%;
+}
+
+.iconos_servicios {
+  padding-top: 10%;
+  margin-bottom: 5%;
+}
+
+.img_div {
+  width: 100%;
+}
+
+.img_menu {
+  width: 70%;
+}
+
+.section4 {
+  padding-top: 10%;
+  margin-bottom: 30%;
+}
+
+.reserva {
+  background-image: url("pizzafondo2.jpg");
+  height: 30em;
+  background-position: center;
+  opacity: 10;
+  background-repeat: no-repeat;
+  margin-bottom: 10%;
+}
+.reserva p {
+  -webkit-text-stroke: 0.004em black;
+  color: white;
+  background-color: #00e6b8;
+  background-size: contain;
+
+  font-weight: bold;
+}
+
+footer {
+  background-color: #00e6b8;
+}
+
+.section4 .h1 {
+}
+.section4 .h2 {
+  -webkit-text-stroke: 0.004em black;
+  color: white;
+
+  background: linear-gradient(#00e6b8, rgb(11, 255, 255));
+}
